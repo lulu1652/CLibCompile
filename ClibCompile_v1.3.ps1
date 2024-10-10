@@ -6,9 +6,9 @@ Further Developing
 1. Let user choice different functions
 2. error handling
 3. Graphical Interface
-4. progress bar
+4. progress bar(checked)
 5. Other language support
-6. Generate exe file of script
+6. Generate exe file of other C files (No libraries)
 #>
 
 
