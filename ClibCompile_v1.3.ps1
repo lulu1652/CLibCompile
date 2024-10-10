@@ -5,7 +5,7 @@ Further Developing
 
 1. Let user choice different functions
 2. error handling
-3. Graphical Mode(checked)
+3. Graphical Mode
 4. progress bar(checked)
 5. Other language support
 6. Generate exe file of other C files (No libraries)
